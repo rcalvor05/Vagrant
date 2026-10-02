@@ -2,7 +2,7 @@
 
 ## ¿Qué es Vagrant?
 
-### Vagrant es una herramienta creada para la construcción de desarrolo completos. Es facil de usar y su principal enfoque es la automatización, vagrant reduce tiempo al desarrollador ya que no tiene que configurar el entorno.
+#### Vagrant es una herramienta creada para la construcción de desarrolo completos. Es facil de usar y su principal enfoque es la automatización, vagrant reduce tiempo al desarrollador ya que no tiene que configurar el entorno.
 
 ### ¿Qué resulve Vagrant?
 
